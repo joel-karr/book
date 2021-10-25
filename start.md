@@ -1,0 +1,2 @@
+Start
+The fundamentals of software development are often overlooked.  In order to be great, you must focus on any obstacle than could potentially knock you out of a state of flow.  Regardless of your experience level, the best place to start is with a pencil and a notebook.  A physical notebook helps amplify actions that force you to hesitate.  These could be having to search the internet for information on design decisions to something so small that you may typically not even notice like deciding between private and static variables.  
